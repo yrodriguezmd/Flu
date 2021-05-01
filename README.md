@@ -1,5 +1,5 @@
 # Flu
-Competition_DataDriven_Flu
+Competition_DrivenData_Flu
 
 Link to competition score/ rank:  https://www.drivendata.org/competitions/66/flu-shot-learning/submissions/
 
