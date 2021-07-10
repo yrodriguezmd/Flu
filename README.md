@@ -26,7 +26,7 @@ Interpretation:  People are more likely to get the H1N1 vaccine if:
 6.  have more than 12 years of schooling,
 7.  belongs to a non-Black race.  (No racism intended, just interpreting data.) 
 
-H1N1_vaccination_AUC![image](https://user-images.githubusercontent.com/71532604/116790852-a07ec680-aa84-11eb-9c69-57ce49e13769.png)
+Figure 1.  H1N1_vaccination_AUC![image](https://user-images.githubusercontent.com/71532604/116790852-a07ec680-aa84-11eb-9c69-57ce49e13769.png)
 
 
 ### Seasonal Flu vaccination
@@ -49,9 +49,9 @@ Interpretation:  People are more likely to get the seasonal vaccine if:
 10. is above the poverty line.
 
 
-seasonal_flu_vaccination_AUC![image](https://user-images.githubusercontent.com/71532604/116790812-539af000-aa84-11eb-9594-d3a262d6642b.png)
+Figure 2.  seasonal_flu_vaccination_AUC![image](https://user-images.githubusercontent.com/71532604/116790812-539af000-aa84-11eb-9594-d3a262d6642b.png)
 
-(Codes and visualizations to be updated after the competition deadline March 31, 2022)
+#### Note: (Codes and visualizations to be updated after the competition deadline March 31, 2022)
 
 
 ### Recommendations:
