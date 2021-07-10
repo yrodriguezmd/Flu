@@ -1,4 +1,5 @@
-# Flu
+## What can we do to increase Flu vaccination rates?
+
 Competition_DrivenData_Flu
 
 Link to competition score/ rank:  https://www.drivendata.org/competitions/66/flu-shot-learning/submissions/
@@ -9,7 +10,7 @@ The aim was to predict the occurrence of h1n1 vaccination and seasonal flu vacci
 
 The model tool utilized was Logit.  
 
-# H1H1 vaccination
+### H1H1 vaccination
 
 
 The accuracy obtained for h1n1 vaccination was 0.83, with AUC 82%.  
@@ -28,7 +29,7 @@ Interpretation:  People are more likely to get the H1N1 vaccine if:
 H1N1_vaccination_AUC![image](https://user-images.githubusercontent.com/71532604/116790852-a07ec680-aa84-11eb-9c69-57ce49e13769.png)
 
 
-## Seasonal Flu vaccination
+### Seasonal Flu vaccination
 
 
 The accuracy obtained for seasonal flu vaccination was 0.7, with AUC 77%.  
@@ -53,7 +54,7 @@ seasonal_flu_vaccination_AUC![image](https://user-images.githubusercontent.com/7
 (Codes and visualizations to be updated after the competition deadline March 31, 2022)
 
 
-## Recommendations:
+### Recommendations:
 
 To further improve H1N1 and seasonal flu vaccination rates, some measures that could be taken include:
 
