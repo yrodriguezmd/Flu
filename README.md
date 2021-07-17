@@ -1,6 +1,8 @@
 ## What can we do to increase Flu vaccination rates?
 
-Competition_DrivenData_Flu
+### Analysis on the US 2010 H1N1 and seasonal flu vaccination rates
+
+#### Competition_DrivenData_Flu
 
 Link to competition score/ rank:  https://www.drivendata.org/competitions/66/flu-shot-learning/submissions/
 
